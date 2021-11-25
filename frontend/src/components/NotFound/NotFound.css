@@ -1,0 +1,14 @@
+.home-button {
+    background: transparent;
+    border: 2px solid blue;
+    border-radius: 10px;
+    font-size: 1rem;
+    color: blue;
+    padding: 12px 28px;
+    transition: all 200ms ease;
+}
+.home-button:hover {
+     border: none;
+     background: blue;
+     color: white;
+}
